@@ -1063,3 +1063,11 @@
     padding: 15px 10px;
   }
   
+
+
+  /*** RESPONSIVE ***/
+  @media screen and (max-width: 992px){
+      main{
+          display: block;
+      }
+  }
